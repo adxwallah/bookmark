@@ -1,15 +1,15 @@
-<script type="95f2354c3fcc6d0410895b82-text/javascript">
+<script type="text/javascript">
 //<![CDATA[
 /*
-* hartomy Bookmark
-* Copyright (c) 2020 https://www.hartomy.com
+* Gyanitheme Bookmark
+* Copyright (c) 2022 https://www.adatun.xyz
 * No Licensed & Open source Code
 * jQuery library
 */
 // variable empty konten
 var massgEmpty = ('Daftar Artikel Favorit Belum Ada'),
 articleLabel = ('Semua konten'),
-link_articleLabel = ('https://www.hartomy.com/');
+link_articleLabel = ('https://www.adatun.xyz/');
 (function ($) {
 "use strict";
 var OptionManager = (function () {
